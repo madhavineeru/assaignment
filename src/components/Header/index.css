@@ -1,0 +1,33 @@
+.logo-title{
+    font-size: 18px;
+    font-family: 'Comfortaa';
+    font-weight: 700;
+    margin: 15px;
+    
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+   
+}
+.menu-link{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Raleway';
+    font-weight: 500;
+    line-height: 28px;
+    width: 52px;
+    height: 28px;
+}

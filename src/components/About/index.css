@@ -1,0 +1,80 @@
+.designation{
+font-size: 20px;
+font-family: 'Nunito';
+font-weight: 700;
+color: #FDC435;
+}
+.title{
+    font-family: 'Playfair Display';
+    font-size: 64px;
+    font-weight: 700;
+    color: #333333;
+    width: 486px;
+    height: 154px;
+}
+.subHeadline-text{
+    font-size: 24px;
+    font-family: Nunito;
+    font-weight: 400;
+    color: #828282;
+    width: 486px;
+    height: 108px;
+}
+
+.projectBtn{
+    font-family: "roboto";
+    font-size: 18px;
+    color: #25282B;
+    font-weight: 500;
+    background-color: #FDC435;
+    line-height: 27px;
+    height: 30px;
+    width: 75px;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+.linkedinBtn{
+    font-size: 18px;
+    font-family: "roboto";
+    height: 30px;
+    width: 75px;
+    background-color: transparent;
+    color: #25282B;
+    line-height: 27px;
+    border:1px solid #25282B ;
+    border-radius: 10px;
+    
+}
+.bg-img{
+    width: 720px;
+    height: 609px;
+    background-image: url("https://res.cloudinary.com/dxisy98pv/image/upload/v1706105678/yellow-bg_scdlh9.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.about-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.content-section{
+    padding: 20px;
+    box-sizing: content-box;
+    top: 111px;
+    left: 50px;
+    width: 486px;
+    height: 408px;
+    gap: 12px;
+    margin-left: 80px;
+    margin-right: 50px;
+
+}
+.app-container{
+    min-height: 300px;
+  
+    
+}
